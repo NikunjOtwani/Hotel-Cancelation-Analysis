@@ -22,11 +22,11 @@ City and resort hotels have experienced high cancellation rates, leading to reve
 ## 📊 Key Findings   
 
 ### 1️⃣ **Cancellation Trends**  
-![Reservation Status](./images/ReservationStatusbyCanceled.png)  
+![Reservation Status](./ReservationStatusbyCanceled.png)  
 - **37%** of reservations were canceled, impacting hotel earnings significantly.  
 
 ### 2️⃣ **Hotel Type Comparison**  
-![Reservation Status by Hotel Type](./images/Reservation%20Status%20in%20Different%20Hotels.png)  
+![Reservation Status by Hotel Type](./Reservation%20Status%20in%20Different%20Hotels.png)  
 - City hotels receive more bookings compared to resort hotels.  
 - Higher costs may contribute to lower resort hotel occupancy.  
 
