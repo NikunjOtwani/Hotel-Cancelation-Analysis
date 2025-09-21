@@ -31,28 +31,28 @@ City and resort hotels have experienced high cancellation rates, leading to reve
 - Higher costs may contribute to lower resort hotel occupancy.  
 
 ### 3️⃣ **Price Impact on Cancellations**  
-![ADR per Month](./images/ADR%20per%20Month.png)  
+![ADR per Month](./ADR%20per%20Month.png)  
 - Cancellations spike when **average daily rates (ADR)** are higher.  
 - Price fluctuations directly influence customer behavior.  
 
 ### 4️⃣ **Monthly Reservation Patterns**  
-![Reservation Status Per Month](./images/Reservation%20Status%20Per%20Month.png)  
+![Reservation Status Per Month](./Reservation%20Status%20Per%20Month.png)  
 - **Highest confirmed reservations:** August  
 - **Most cancellations:** January  
 - **Lowest cancellations:** September  
 
 ### 5️⃣ **Cancellations by Country**  
-![Top 10 Countries](./images/pie%20country.png)  
+![Top 10 Countries](./pie%20country.png)  
 - **Portugal** has the highest cancellation rate (70.28%).  
 
 ### 6️⃣ **Booking Channels**  
-![Market Segment](./images/markety%20segment.png)  
+![Market Segment](./markety%20segment.png)  
 - **47%** of reservations come from **online travel agents**.  
 - Offline bookings make up a significantly smaller share.  
 
 
 ### 7️⃣ **Average Daily Rate**  
-![ADR](./images/avg%20daily%20from%202016.png)  
+![ADR](./avg%20daily%20from%202016.png)  
 - As seen in the chart, reservations are cancelled when average daily rate is higher than when it is not cancelled. It clearly proves all the above analysis, that the higher price leads to higher cancellation.
 
 ## 📌 Recommendations  
